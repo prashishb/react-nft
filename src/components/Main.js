@@ -36,7 +36,7 @@ const Main = ({ selectedPunk, punkListData }) => {
             <div className='ownerDetails'>
               <div className='ownerNameAndHandle'>
                 <div>{activePunk.owner.address}</div>
-                <div className='ownerHandle'>@cleverprogrammer</div>
+                <div className='ownerHandle'>@prashishb</div>
               </div>
               <div className='ownerLink'>
                 <img src={instagramLogo} alt='' />
